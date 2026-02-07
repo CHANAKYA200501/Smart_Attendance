@@ -84,9 +84,9 @@ This project is suitable for academic purposes and real-world applications in sc
 ### Software Requirements
 - Python 3.8 or above  
 - Windows / Linux / macOS  
-- Web Browser (if web-based)  
-<img width="714" height="336" alt="image" src="https://github.com/user-attachments/assets/e258e2da-1e18-4918-83a0-a4258de02ec1" />
+- Web Browser (if web-based)
 
 ---
 
 ## 📁 Project Structure
+<img width="714" height="336" alt="image" src="https://github.com/user-attachments/assets/e258e2da-1e18-4918-83a0-a4258de02ec1" />
